@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "8d9b",
+      "cityName": "Plano",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-14T00:07:30.908Z",
+      "notes": "my location",
+      "position": {
+        "lat": "33.1131188",
+        "lng": "-96.7477023"
+      }
+    },
+    {
+      "id": "0298",
+      "cityName": "Thiruthuraipoondi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-14T00:08:16.151Z",
+      "notes": "tamilnadu",
+      "position": {
+        "lat": "10.444597722834875",
+        "lng": "79.54101562500001"
+      }
+    },
+    {
+      "id": "5a65",
+      "cityName": "Laggala",
+      "country": "Sri Lanka",
+      "emoji": "🇱🇰",
+      "date": "2024-05-14T00:08:35.176Z",
+      "notes": "srilanka",
+      "position": {
+        "lat": "7.493196470122287",
+        "lng": "80.85937500000001"
+      }
+    },
+    {
+      "id": "a4b1",
+      "cityName": "Manoor",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-14T00:08:49.682Z",
+      "notes": "india",
+      "position": {
+        "lat": "17.978733095556183",
+        "lng": "77.78320312500001"
+      }
+    },
+    {
+      "id": "88be",
+      "cityName": "Plano",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-30T14:08:54.980Z",
+      "notes": "test 30th may",
+      "position": {
+        "lat": "33.1145886",
+        "lng": "-96.7468066"
+      }
+    }
+  ]
+}
